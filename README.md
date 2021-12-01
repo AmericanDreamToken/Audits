@@ -1,2 +1,2 @@
 # Audits
-our first contract Audit done with TechRate Auditors
+AmericanDream contract's first Audit done with TechRate Auditors
